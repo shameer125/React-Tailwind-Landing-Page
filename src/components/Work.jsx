@@ -5,7 +5,7 @@ const Work = () => {
     <section className="py-16 px-6 grid md:grid-cols-2 gap-10 items-center">
       {/* Image */}
       <img
-        src="https://illustrations.popsy.co/blue/collaboration.svg"
+        src="https://burst.shopifycdn.com/photos/startup-desk.jpg?width=1000&format=pjpg&exif=0&iptc=0"
         alt="collaboration"
         className="w-full max-w-md mx-auto"
       />
