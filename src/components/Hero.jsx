@@ -2,7 +2,7 @@ import React from 'react'
 
 const Hero = () => {
   return (
-    <section className="bg-blue-300 text-white px-6 py-16 grid md:grid-cols-2 gap-10 items-center">
+    <section className="bg-blue-900 text-white px-6 py-16 grid md:grid-cols-2 gap-10 items-center">
       <div>
         <h1 className="text-4xl md:text-5xl font-bold mb-6">
           Get More Done with whitepace
@@ -14,7 +14,13 @@ const Hero = () => {
           Try whitepace free
         </button>
       </div>
-      <div className="bg-white h-64 rounded-xl"></div>
+
+      {/* Image */}
+      <img
+        src="https://illustrations.popsy.co/blue/dashboard.svg"
+        alt="dashboard"
+        className="w-full max-w-md mx-auto"
+      />
     </section>
   );
 }
