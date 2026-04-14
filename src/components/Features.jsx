@@ -16,7 +16,7 @@ const Features = () => {
 
         {/* Image */}
         <img
-          src="https://illustrations.popsy.co/blue/team-work.svg"
+          src="https://cdn.pixabay.com/blog/preview/2026/04/06/06-27-49-719_960_720.jpg"
           alt="team"
           className="w-full max-w-md mx-auto"
         />
