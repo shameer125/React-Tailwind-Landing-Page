@@ -6,7 +6,7 @@ const App = () => {
   return (
     <div className='font-sans'>
       <Navbar />
-      <Hero/>
+      <Hero />
     </div>
   )
 }
