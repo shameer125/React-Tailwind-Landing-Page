@@ -10,10 +10,10 @@ const Navbar = () => {
 
         {/* Desktop Menu */}
         <div className="hidden md:flex gap-6">
-          <a href="#">Products</a>
-          <a href="#">Solutions</a>
-          <a href="#">Resources</a>
-          <a href="#">Pricing</a>
+          <a href="Hero">Products</a>
+          <a href="Solutions">Solutions</a>
+          <a href="Resources">Resources</a>
+          <a href="Pricing">Pricing</a>
               </div>
                       {/* Desktop Button */}
         <button className="hidden md:block bg-yellow-400 text-black px-4 py-2 rounded-lg">
