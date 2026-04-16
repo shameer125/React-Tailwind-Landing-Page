@@ -9,6 +9,7 @@ import Footer from './components/Footer';
 import Extension from './components/Extension';
 import Customization from './components/Customization';
 import Sponsors from './components/Sponsors';
+import CTA from './components/CTA';
 
 const App = () => {
   return (
@@ -22,6 +23,7 @@ const App = () => {
       <Pricing />
       <Testimonials />
       <Sponsors />
+      <CTA />
       <Footer/>
     </div>
   )
