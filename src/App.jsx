@@ -7,6 +7,7 @@ import Pricing from './components/Pricing';
 import Testimonials from './components/Testimonials';
 import Footer from './components/Footer';
 import Extension from './components/Extension';
+import Customization from './components/Customization';
 
 const App = () => {
   return (
@@ -15,7 +16,8 @@ const App = () => {
       <Hero />
       <Features />
       <Work />
-      <Extension/>
+      <Extension />
+      <Customization />
       <Pricing />
       <Testimonials />
       <Footer/>
