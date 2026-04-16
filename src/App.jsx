@@ -8,6 +8,7 @@ import Testimonials from './components/Testimonials';
 import Footer from './components/Footer';
 import Extension from './components/Extension';
 import Customization from './components/Customization';
+import Sponsors from './components/Sponsors';
 
 const App = () => {
   return (
@@ -20,6 +21,7 @@ const App = () => {
       <Customization />
       <Pricing />
       <Testimonials />
+      <Sponsors />
       <Footer/>
     </div>
   )
