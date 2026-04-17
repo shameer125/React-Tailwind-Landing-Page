@@ -38,7 +38,7 @@ const Extension = () => {
 
           <div className="relative bg-white/10 backdrop-blur-lg border border-white/20 p-6 rounded-3xl shadow-2xl">
             <img
-              src="https://illustrations.popsy.co/blue/puzzle.svg"
+              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1DkvZuU6NukTFRDr-KYp5jwDn0wQhzCZV1A&s"
               alt="extension"
               className="w-full max-w-sm mx-auto"
             />
